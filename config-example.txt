@@ -1,0 +1,6 @@
+{
+    "token": "this_is_not_a_real_token",
+    "ownerId": "this_is_not_a_real_id",
+    "bugReportChannel": "this_is_not_a_real_id",
+    "suggestionsChannel": "this_is_not_a_real_id"
+}
