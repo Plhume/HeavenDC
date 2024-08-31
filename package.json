@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@sapphire/framework": "^5.2.1",
+    "discord.js": "^14.15.3",
+    "mysql2": "^3.11.0"
+  },
+  "name": "heavenbot",
+  "version": "1.0.0",
+  "description": "Official bot of Heaven",
+  "main": "src/heaven.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Plhume",
+  "license": "GPL-3.0"
+}
